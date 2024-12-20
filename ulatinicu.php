@@ -11,7 +11,7 @@
 */
 
 if (!defined('ABSPATH')) {
-    exit('Forbidden');
+    die('Forbidden');
 }
 
 define('UNI_CIRILICA', [
